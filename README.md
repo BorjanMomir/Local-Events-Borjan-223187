@@ -15,7 +15,7 @@ Web application for managing and discovering local events.
 
 
 Project documentation is available in:
-docs/Project_Report.pdf
+docs/Web апликација за управување со локални настани Local Event.pdf
 
 ## Figma Design
 https://www.figma.com/design/1cWf19fCG6Y87gcCc2tvUA/Local-Events-%E2%80%93-UI-Design
